@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# Test
-=======
-# autotest
->>>>>>> origin/main
+# TEST
