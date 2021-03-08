@@ -1,1 +1,17 @@
 hello world
+git remote set-url origin url
+git remote set-url origin url
+git pull origin master --allow-unrelated-histories
+git pull origin master -allow-unrelated-histories
+git pull origin master --allow-unrelated-histories
+git merge --abort
+git merge --abort
+git reset --merge
+git push -u orignnal master
+git pull remote-name remote-branch
+git pull remote-name remote-branch --allow-unrelated-histories
+git merge --abort
+git reset merge
+git branch --set-upstream-to origin/master
+git breanch --set-upstream-to origin/master
+git branch -u 
