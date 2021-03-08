@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/name-autotest-brightgreen)
+![](https://github.com/Runner-2019/runner/blob/master/src/images/logo.png)
 ```text
 usage: autotest.py [-h] [-a [ALL_CONFERENCE_ADDR [ALL_CONFERENCE_ADDR ...]]] [-t TEST_TIME] [-s SEND_ALARM_TO] [-u DEVICE_TOKEN] [-dtmf DTMFSTRING]
 
