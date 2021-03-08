@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/name-autotest-brightgreen)
+```text
 usage: autotest.py [-h] [-a [ALL_CONFERENCE_ADDR [ALL_CONFERENCE_ADDR ...]]] [-t TEST_TIME] [-s SEND_ALARM_TO] [-u DEVICE_TOKEN] [-dtmf DTMFSTRING]
 
 Automation Test
@@ -15,4 +16,4 @@ optional arguments:
                         Which device to use
   -dtmf DTMFSTRING, --dtmf DTMFSTRING
                         DTMFString to send
-
+```
